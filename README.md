@@ -16,11 +16,9 @@ Desafios:
 
 <a href="https://pedroluis1.github.io/html-css/desafios/d007/index.html">d007</a>
 
-<a href="https://pedroluis1.github.io/html-css/desafios/d008/index.html">d008</a>
-
 <a href="https://pedroluis1.github.io/html-css/desafios/d009/index.html">d009</a>
 
-<a href="https://pedroluis1.github.io/html-css/desafios/d010/index.html">d010</a>
+<a href="https://pedroluis1.github.io/html-css/desafios/d010/android.html">d010</a>
 
 Exercícios:
 
