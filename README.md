@@ -72,8 +72,22 @@ Exercícios:
 
 <a href="https://pedroluis1.github.io/html-css/exercicios/ex020(pseudoclasses%20e%20elementos)/teste.html" target="_blank">ex020(pseudoclasses e elementos) teste</a>
 
-<a href="https://pedroluis1.github.io/html-css/exercicios/ex21/caixa01.html" target="_blank">ex 021 caixa01</a>
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex21(caixas)/caixa01.html" target="_blank">ex 021 caixa01</a>
 
-<a href="https://pedroluis1.github.io/html-css/exercicios/ex21/caixa02.html" target="_blank">ex 021 caixa02</a>
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex21(caixas)/caixa02.html" target="_blank">ex 021 caixa02</a>
 
-<a href="https://pedroluis1.github.io/html-css/exercicios/ex21/caixa03.html" target="_blank">ex 021 caixa03</a>
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex21(caixas)/caixa03.html" target="_blank">ex 021 caixa03</a>
+
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex22(fundos)/fundo001.html" target="_blank">ex 022 fundo001</a>
+
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex22(fundos)/fundo002.html" target="_blank">ex 022 fundo002</a>
+
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex22(fundos)/fundo003.html" target="_blank">ex 022 fundo003</a>
+
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex22(fundos)/fundo004.html" target="_blank">ex 022 fundo004</a>
+
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex22(fundos)/fundo005.html" target="_blank">ex 022 fundo005</a>
+
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex22(fundos)/fundo006.html" target="_blank">ex 022 fundo006</a>
+
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex22(fundos)/fundo007.html" target="_blank">ex 022 fundo007(Responsividade YT...)</a>
