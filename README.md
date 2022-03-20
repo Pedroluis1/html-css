@@ -90,6 +90,6 @@ Exercícios:
 
 <a href="https://pedroluis1.github.io/html-css/exercicios/ex022(fundos)/fundo006.html" target="_blank">ex 022 fundo006</a>
 
-<a href="https://pedroluis1.github.io/html-css/exercicios/ex022(fundos)/fundo007.html" target="_blank">ex 022 fundo007(Responsividade YT...)</a>
+<a href="https://pedroluis1.github.io/html-css/exercicios/ex022(fundos)/fundo007.html" target="_blank">ex 022 fundo007(Responsividade vertical/horizontal)</a>
 
 <a href="https://pedroluis1.github.io/html-css/exercicios/ex022(fundos)/fundo08glass.html" target="_blank">ex 022 fundo08glass</a>
