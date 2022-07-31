@@ -13,14 +13,28 @@
             border-collapse: collapse;
             width: 500px;
         }
+
+        caption{
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 7px;
+            background-color: lightgray;
+        }
+
         td, th{
             border: 1px solid black;
             padding: 10px;
         }
+
         thead, tfoot{
             background-color: gray;
             color:white;
         }
+
+        tbody > tr:nth-child(2){ /* (odd) é impar ou 2-1 e even é (par) */
+            background-color: lightgray;
+        }
+
         .num{
             text-align: right;
         }
@@ -31,6 +45,7 @@
     <!--
         ANATOMIA PARA TABELAS GRANDES
         TABLE
+            CAPTION
             THEAD
                 TR, TD, TH
             TBODY
@@ -39,10 +54,11 @@
                 TR, TD, TH
     -->
     <table>
+        <caption>População das unidades Federativas</caption> // Legenda da lista.
         <thead>
             <tr>
-                <th>Estado</th>
-                <th>População</th>
+                <th scope="col">Estado</th> // Informando que os dados estão em coluna.(google/ fazer sentido)
+                <th scope="col" style="width: 50px;">População</th>
             </tr>
         </thead>
         <tbody>
@@ -61,7 +77,7 @@
         </tbody>
         <tfoot>
             <tr>
-                <th>Total de Habitantes</th>
+                <th scope="row">Total de Habitantes</th> // Informando que os dados estão em linha.
                 <td  class="num">0000</td>
             </tr>
         </tfoot>
